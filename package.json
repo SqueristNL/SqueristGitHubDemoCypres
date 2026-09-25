@@ -1,12 +1,5 @@
 {
-  "name": "squerist-playwright-demo",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Playwright smoke test voor www.squerist.nl",
-  "scripts": {
-    "test": "playwright test"
-  },
   "devDependencies": {
-    "@playwright/test": "^1.47.0"
+    "cypress": "^16.1.0"
   }
 }
